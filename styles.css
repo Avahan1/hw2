@@ -1,6 +1,6 @@
 body {
   font-family: "Helvetica", sans-serif;
-  width: 1000px;
+  width: 1200px;
   margin: 5px auto;
 }
 img {
@@ -27,10 +27,20 @@ h3 {
 .brown{
   font-size: 50px;
   color:green;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 table, th, td {
     border: 2px solid brown;
+        background-color: #f1f1c1;
         border-collapse: collapse;
+
     th, td {
     padding: 15px;
+}
+
+btn-success {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
 }
