@@ -19,7 +19,7 @@ header {
 }
 
 h3 {
-  border-bottom: solid 4px green;
+  border-bottom: solid 4px #428bca;
   length: 20px;
   padding-bottom: 8px;
 }
@@ -30,9 +30,10 @@ h3 {
   padding-top: 25px;
   padding-bottom: 25px;
 }
+
 table, th, td {
-    border: 2px solid brown;
-        background-color: #f1f1c1;
+    border: 2px solid purple;
+        background-color:#5bc0de;
         border-collapse: collapse;
 
     th, td {
@@ -43,4 +44,5 @@ btn-success {
     color: #fff;
     background-color: #5cb85c;
     border-color: #4cae4c;
+
 }
