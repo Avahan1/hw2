@@ -6,7 +6,7 @@ body {
 img {
   width: 200px;
   box-shadow: 4px 4px 4px #AAA;
-  float: right;
+  float: left;
 }
 
 .header {
