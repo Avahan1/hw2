@@ -6,11 +6,11 @@ li a {
   color:green;
 }
 
-p {
-  border: none
+/*p {
+  border: none;
   padding:40px;
-  margin: 35px 50px 60px 100px:
-}
+  margin: 35px 50px 60px 100px;
+}*/
 
 body {
  font-family: "Arial";
@@ -18,5 +18,5 @@ body {
 
 .header2 {
 padding:5px;
-color:red;
+color:green;
 }
